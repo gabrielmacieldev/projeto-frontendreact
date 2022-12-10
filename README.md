@@ -1,5 +1,11 @@
 # projeto-frontendreact
 
+Projeto de front-end react simples sem uso de API, na ocasião utilizei um arquivo JSON para simular uma array de objetos, neste caso fiz alguns cards com o tema de espaço, foi utilizando react, styled-component, javascript, renderização para outra tela que no caso é o carrinho de compras. segue abaixo o link do deploy do projeto.
+
+https://projeto-frontend-react-gabriel-maciel.surge.sh/
+
+
+
 Esse é o projeto de introdução aos fundamentos do React. Aqui, vamos praticar a estrutura do que consideramos a estrutura do React. O objetivo é que funcione como o front-end de um E-Commerce
 
 - JSX
