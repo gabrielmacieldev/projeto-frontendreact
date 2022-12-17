@@ -1,6 +1,6 @@
 # projeto-frontendreact
 
-Projeto de front-end react simples sem uso de API, na ocasião utilizei um arquivo JSON para simular uma array de objetos, neste caso fiz alguns cards com o tema de espaço, foi utilizando react, styled-component, javascript, renderização para outra tela que no caso é o carrinho de compras. segue abaixo o link do deploy do projeto.
+Site e-commerce de Trajes personalizadas com tema espacial, simples sem uso de API, na ocasião utilizei um arquivo JSON para simular uma array de objetos, o usuário é capaz de ver produtos disponíveis, visualizar por filtros, adicionar ao carrinho, remover e ver a quantidade selecionada e o valor total do carrinho. Neste caso fiz alguns cards com o tema de espaço, foi utilizando na execução React, styled-component, javascript, localstorage e renderização condicional para o carrinho de compras. segue abaixo o link do deploy do projeto.
 
 https://projeto-frontend-react-gabriel-maciel.surge.sh/
 
